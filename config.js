@@ -39,4 +39,4 @@ var config = {
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
-};
+}; 
